@@ -3,17 +3,11 @@
 Ce projet a été réalisé dans le cadre de la SAE2.2. L'objectif était de modéliser la cantine "Frère Jacques" en utilisant Matlab, en appliquant un filtre passe-bas et en ajoutant un effet chorus.
 ## Frère Jacque
 
-<audio controls>
-  <source src="https://raw.githubusercontent.com/lolosk/Sae2.2/main/Frere_Jacque.MP3" type="audio/mpeg">
-  Votre navigateur ne supporte pas la balise audio.
-</audio>
+https://raw.githubusercontent.com/lolosk/Sae2.2/main/Frere_Jacque.MP3
 
 ## Frère Jacques (Chorus)
 
-<audio controls>
-  <source src="https://raw.githubusercontent.com/lolosk/Sae2.2/main/Frere_Jacque_Chorus.MP3" type="audio/mpeg">
-  Votre navigateur ne supporte pas la balise audio.
-</audio>
+https://raw.githubusercontent.com/lolosk/Sae2.2/main/Frere_Jacque_Chorus.MP3
 
 ## Table des matières
 
