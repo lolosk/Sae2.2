@@ -8,6 +8,13 @@ Ce projet a été réalisé dans le cadre de la SAE2.2. L'objectif était de mod
   Votre navigateur ne supporte pas la balise audio.
 </audio>
 
+## Frère Jacques (Chorus)
+
+<audio controls>
+  <source src="https://github.com/lolosk/Sae2.2/raw/main/Frere_Jacque_Chorus.MP3" type="audio/mpeg">
+  Votre navigateur ne supporte pas la balise audio.
+</audio>
+
 ## Table des matières
 
 1. [Introduction](#introduction)
